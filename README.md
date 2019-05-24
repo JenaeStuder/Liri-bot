@@ -5,15 +5,14 @@
 
 ## running this application is simple and requires just a few key words to access all this information. Simply download the repo and follow the file path to where you saved the repo. In the command line get yourself into the file where you stored the repo. From there simply type in "node <filename.js> <command>." as shown below
 
-![Node Screenshot](../assets/liribot1.jpeg)
-Format: ![LiriBot](url)
+##Starting LiriBot
+![Node Screenshot](./assets/liribot1.jpeg)
 
+##Results
+![Spotify Song Search Example](./assets/liribot2.jpeg)
 
-![Spotify Song Search Example](../assets/liribot2.jpeg)
-Format: ![LiriBot Example](url)
+## What is displayed when there aren't any results
+![Spotify Song Search Example with no results](./assets/liribot3.jpeg)
 
-![Spotify Song Search Example with no results](../assets/liribot3.jpeg)
-Format: ![LiriBot Example no results](url)
-
-![Spotify Song Search Example with multiple results](../assets/liribot4.jpeg)
-Format: ![LiriBot Example with multiple searches](url)
+##Mulitple searches
+![Spotify Song Search Example with multiple results](./assets/liribot4.jpeg)
